@@ -3,7 +3,7 @@
 
 <!-- hello everyone 👋 i'm &#128512; Aisha ... --> 
 
-<h1 align="center">Hi , Aisha Tayyaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , Aisha Tayyaba 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--<div align="center">
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
 </div>-->
@@ -15,7 +15,7 @@ I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScrip
 
 With 1.9 years of experience as a front-end developer, I love tackling challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
 
-Let's connect and explore my projects on GitHub. Reach out at aisha17cs03@gmail.com"
+<!-- Let's connect and explore my projects on GitHub. Reach out at aisha17cs03@gmail.com" ---->
 
 </p>
 </div>
@@ -69,8 +69,11 @@ Here are some ideas to get you started:-->
  <h2 align="left">🤝Let's Connect</h2>
 
 
-<a href="https://twitter.com/aisha17cs03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/aisha17cs03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aisha" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/aisha08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="mailto:aisha17cs03@gmail.com" target="blank" title="aisha17cs03@gmail.com" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+
 
 
 
