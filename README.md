@@ -11,7 +11,7 @@
      <hr/>
      <div style="display:flex">
     <p align="left" style="max-width:40%">
-I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. 
+I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, React.js, and more. 
 
 With 1.9 years of experience as a front-end developer, I love tackling challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
 
