@@ -33,10 +33,10 @@ Here are some ideas to get you started:-->
 
 ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 <hr/>
-<h2>languge and tools</h2>
+<h2>Languge and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git,c,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,c,java,python,sql" />
   </a>
 </p>
 
@@ -69,15 +69,16 @@ Here are some ideas to get you started:-->
  <h2 align="left">🤝Let's Connect</h2>
 
 
-<a href="https://twitter.com/aisha17cs03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aisha" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
 <a href="https://www.linkedin.com/in/aisha08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="mailto:aisha17cs03@gmail.com" target="blank" title="aisha17cs03@gmail.com" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/aisha17cs03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aisha" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 
 
 
 
-<img src="https://github.com/chhavi48/chhavi48/assets/77965216/be555b57-a705-4fdf-9061-6949e08442de"/>
+<img src="https://github.com/aisha17cs03/aisha17cs03/assets/77965216/be555b57-a705-4fdf-9061-6949e08442de"/>
 
 <!----
 <h4>Just Scan and connect🤝</h4>
@@ -90,7 +91,7 @@ Here are some ideas to get you started:-->
 </hr>
 
 
-<!--<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+<!--<a href="https://github.com/aisha17cs03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha17cs03&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
 
 
