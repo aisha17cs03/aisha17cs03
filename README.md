@@ -11,7 +11,7 @@
      <hr/>
      <div style="display:flex">
     <p align="left" style="max-width:40%">
-I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, React.js, and more. 
+I'm a passionate front-end web developer with expertise in HTML, CSS, JavaScript, React.js, and more. 
 
 With 1.9 years of experience as a front-end developer, I love tackling challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
 
@@ -28,10 +28,10 @@ Here are some ideas to get you started:-->
 
 ✔️  I aspire to work as a programmer.
 
-✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+✔️I'm a fast learner looking for interesting career opportunities in Web as a front-end developer.
 
 
-✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+✔️ Currently looking for opportunities as a front-end developer to help me learn and grow as a web developer.
 <hr/>
 <h2>Languge and Tools</h2>
 <p align="center">
