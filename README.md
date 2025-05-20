@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
 <h2>Languge and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,java,springboot,RestAPI,c,python,SQL,postman,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,java,spring,c,python,mysql,postman,eclipse" />
   </a>
 </p>
 
