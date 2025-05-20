@@ -76,8 +76,20 @@ Here are some ideas to get you started:-->
 
 
 
+<h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/aisha17cs03-cmd/github-readme-activity-graph"><img alt="Aisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhavi48&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    
+ <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=aisha17cs03&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
+ 
+ <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aisha17cs03&" alt="chamarthivamsidev" /></p>
+
+<p align="center"><img width="50%" border="1" margin-bottom= "30" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kgaurav113&show_icons=true&locale=en&layout=compact" alt="gaurav" /></p>
+
+
+
+
 
 
 
