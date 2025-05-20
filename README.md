@@ -76,10 +76,12 @@ Here are some ideas to get you started:-->
 
 
 
-<h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+<h1 align="center">My Github Stats :
+     <!--<img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> -->
+</h1>
 
-<a href="https://github.com/aisha17cs03-cmd/github-readme-activity-graph"><img alt="Aisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhavi48&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/aisha17cs03-cmd/github-readme-activity-graph"><img alt="Aisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aisha17cs03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     
  <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=aisha17cs03&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
  
