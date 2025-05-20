@@ -77,6 +77,9 @@ Here are some ideas to get you started:-->
 
 
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <img src="https://github.com/chhavi48/chhavi48/assets/77965216/be555b57-a705-4fdf-9061-6949e08442de"/>
 
