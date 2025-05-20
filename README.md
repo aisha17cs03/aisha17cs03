@@ -13,7 +13,7 @@
     <p align="left" style="max-width:40%">
 I'm a passionate front-end web developer with expertise in HTML, CSS, JavaScript, React.js, and more. 
 
-With 1.9 years of experience as a front-end developer, I love tackling challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
+With 3.1 years of experience as a front-end developer, I love tackling challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
 
 <!-- Let's connect and explore my projects on GitHub. Reach out at aisha17cs03@gmail.com" ---->
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
 <h2>Languge and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,c,java,python,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,java,springboot,RestAPI,c,python,SQL,postman" />
   </a>
 </p>
 
