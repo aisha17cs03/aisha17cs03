@@ -75,19 +75,20 @@ Here are some ideas to get you started:-->
 <a href="https://twitter.com/aisha17cs03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aisha" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 
-
+<!--
 <h1 align="center">My Github Stats :
-     <!--<img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> -->
+     <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/>
 </h1>
 
-<!--
-<a href="https://github.com/aisha17cs03-cmd/github-readme-activity-graph"><img alt="Aisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aisha17cs03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+
+<a href="https://github.com/aisha17cs03-cmd/github-readme-activity-graph"><img alt="Aisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aisha17cs03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     
  <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=aisha17cs03&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
  
  <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aisha17cs03&" alt="chamarthivamsidev" /></p>
 
 <p align="center"><img width="50%" border="1" margin-bottom= "30" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kgaurav113&show_icons=true&locale=en&layout=compact" alt="gaurav" /></p>
+-->
 
 
 
